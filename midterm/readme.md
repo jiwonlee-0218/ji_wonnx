@@ -25,4 +25,4 @@
 - 컴퓨터 내부에서 동영상 촬영시 마지막 customer테이블에 고객 추가 및 수정 기능을 적용할 때 
 vscode창을 띄웠음에도 불구하고 녹화기능이 적용되지 않아서 사진을 따로 첨부합니다.
 
-<img src="C:\Users\scjjw\OneDrive\바탕 화면">
+![data](https://user-images.githubusercontent.com/70517056/97857681-76508400-1d41-11eb-95e8-40ff84a21020.png)
